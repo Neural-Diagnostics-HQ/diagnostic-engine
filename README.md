@@ -1,3 +1,4 @@
+![DrNeural Tech](image.jpg)
 # DrNeural.com | Core Neural Interface
 
 ### [PRODUCTION STATUS: ACTIVE]
