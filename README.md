@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1675557009875-436f2950949f?q=80&w=600&auto=format&fit=crop" alt="DrNeural.com Network">
-</p>
 # DrNeural.com | Core Neural Interface
 
 ### [PRODUCTION STATUS: ACTIVE]
